@@ -9,7 +9,7 @@ This annoys me, as my plan supports tethering. I know this can be fixed by modif
 You'll have to disable verity validation to be able to successfully modify the /vendor (or /system) partitions; I used this:
 https://build.nethunter.com/android-tools/no-verity-opt-encrypt/
 
-# Installing my pre-built APK
+## Installing my pre-built APK
 
 If you just want to install this, and trust my APK:
 * Make sure you have verity disabled, or none of this will work.
@@ -23,7 +23,7 @@ If you just want to install this, and trust my APK:
 
 ..you should have the options!
 
-# Building your own APK
+## Building your own APK
 
 Note - I'm not an Android developer; this may be the wrong way to do this... but it works.  :)  Pull requests appreciated!
 
